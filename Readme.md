@@ -24,9 +24,7 @@ pip install pandas numpy matplotlib seaborn plotly ipywidgets
 pip install rdkit-pypi py3Dmol nglview
 Knowledge Prerequisites
 Basic Python programming
-
 Understanding of molecular structure concepts
-
 Familiarity with basic statistics
 
 🚀 Quick Start
