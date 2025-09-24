@@ -1,4 +1,5 @@
 Professor Guide: Cheminformatics Drug Analysis Notebook
+
 📋 Overview
 This Jupyter notebook provides students with hands-on experience in cheminformatics, exploring relationships between chemical structure and biological activity using computational tools. Students analyze common drugs from two therapeutic classes (NSAIDs and antibiotics) while developing practical skills in molecular visualization, descriptor calculation, and data analysis.
 
